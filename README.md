@@ -5,7 +5,8 @@ All data is given in physical units of GeV.
 The content of the files should be understandable from the comments that can be found there.
 Details can be found in [[1]](#YM_LC).
 Subdirectories contain data for different setups, see table below.
-For any questions, please contact [Markus Huber](mailto:markus.huber@physik.jlug.de).
+For any questions related to the repository, please contact [Markus Huber](mailto:markus.huber@physik.jlug.de).
+For general questions about the calculations, contact any of the authors of [[1]](#YM_LC).
 
 ## Data and setups in [[1]](#YM_LC)
 
