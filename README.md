@@ -4,11 +4,8 @@ This repository contains data for the ghost and gluon propagators of Yang-Mills 
 All data is given in physical units of GeV.
 The content of the files should be understandable from the comments that can be found there.
 Details can be found in [[1]](#YM_LC).
-Subdirectories contain data for different ghost renormalization values.
+Subdirectories contain data for different setups, see table below.
 For any questions, please contact [Markus Huber](mailto:markus.huber@physik.jlug.de).
-The contained datasets are only a subset of the available data and correspond to the data shown in [[1]](#YM_LC).
-
-## Data and figures in [[1]](#YM_LC)
 
 ## Data and setups in [[1]](#YM_LC)
 
@@ -17,8 +14,6 @@ Setup | beta_0 | Ghost at zero
 1                | 1      | 5
 2 				       | 1  	  | 25
 3   | 0.5     | 5
-
-### Notes
 
 ## Reference
 Data is published in [[1]](#YM_LC).
