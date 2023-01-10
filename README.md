@@ -25,4 +25,4 @@ This GitHub repository and its contents are provided for free use. Whenever it i
 ---
 
 ## References
-<a name="YM_LC">[1]</a> Martin Napetschnig, Reinhard Alkofer, Markus Q. Huber, Jan M. Pawlowski, Yang-Mills propagators in linear covariant gauges from Nielsen identities, [arXiv:2007.11505](https://arxiv.org/abs/2007.11505)
+<a name="YM_LC">[1]</a> Martin Napetschnig, Reinhard Alkofer, Markus Q. Huber, Jan M. Pawlowski, Yang-Mills propagators in linear covariant gauges from Nielsen identities, [    Phys.Rev.D 104 (2021) 5, 054003](https://doi.org/10.1103/PhysRevD.104.054003), [arXiv:2007.11505](https://arxiv.org/abs/2007.11505)
